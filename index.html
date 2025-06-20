@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Quiz App</title>
+</head>
+<body>    
+     <div class="start-btn">Start Quiz</div>
+    <section class="rules-box">
+        <header>
+            <h3>Some rules you need to know</h3>
+        </header>
+        <div class="rules">
+            <p>1.Once you select your answer, it can't be undone.</p>
+            <p>2.You can't exit from the Quiz until you answer all questions.</p>
+            <p>3.You will get score based on your correct answers.</p>
+            <p>4.Green color indicates correct answer while red color indicates wrong answer.</p>
+            <p>5.You can replay the Quiz once you complete it.</p>
+        </div>
+        <footer>
+            <button class="exit-btn">Exit Quiz</button>
+            <button class="continue-btn">Continue</button>
+        </footer>
+    </section>
+    <section class="quiz-box">
+        <header>
+            <h3>Quiz - Know your Progress</h3>
+        </header>
+        <div class="quiz">
+            <div class="ques"></div>
+            <div class="options-box">
+                <button onclick="getAnswer()"></button>
+                <button onclick="getAnswer()"></button>
+                <button onclick="getAnswer()"></button>
+                <button onclick="getAnswer()"></button>
+            </div>
+        </div>
+        <footer>
+            <p><span id="quesNo">1</span> out of 10 questions</p>
+            <button class="next-btn">Next</button>
+        </footer>
+    </section>
+    <section class="score-box">
+        <p class="wish">Congratulations!</p>
+        <p class="score">You have scored <span id="totalScore"></span> out of <span>10</span></p>
+        <div>
+            <button class="continue-btn">Replay</button>
+            <button class="exit-btn">Exit Quiz</button>
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
