@@ -53,6 +53,6 @@ I have used Visual Studio Code (vscode) editor to do this task.
 
 - Interactive Web App – Engages users through an intuitive, responsive interface.
 
-# Screenshots
+# Output Screenshots
 
-https://github.com/user-attachments/assets/3bf13dab-3a84-4607-b7b9-4229e43adc43
+![Image](https://github.com/user-attachments/assets/3bf13dab-3a84-4607-b7b9-4229e43adc43)
