@@ -56,3 +56,6 @@ I have used Visual Studio Code (vscode) editor to do this task.
 # Output Screenshots
 
 ![Image](https://github.com/user-attachments/assets/3bf13dab-3a84-4607-b7b9-4229e43adc43)
+![Image](https://github.com/user-attachments/assets/cd98b76a-3bf6-43ac-939c-52cc8398ae17)
+![Image](https://github.com/user-attachments/assets/54e0fcc1-ad38-482a-8c6e-5421f223c089)
+![Image](https://github.com/user-attachments/assets/0819c15e-8efa-4f8a-b83e-efbd230f9ade)
