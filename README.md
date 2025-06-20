@@ -52,3 +52,7 @@ I have used Visual Studio Code (vscode) editor to do this task.
 - Frontend Development Practice – Demonstrates use of DOM manipulation, event handling, and dynamic UI updates using JavaScript.
 
 - Interactive Web App – Engages users through an intuitive, responsive interface.
+
+# Screenshots
+
+https://github.com/user-attachments/assets/3bf13dab-3a84-4607-b7b9-4229e43adc43
